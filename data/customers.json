@@ -1,0 +1,3509 @@
+[
+  {
+    "customer_id": "CUST-1000",
+    "name": "Aisha Smith",
+    "email": "aisha.smith0@example.com",
+    "vip": false,
+    "lifetime_value": 1262.21
+  },
+  {
+    "customer_id": "CUST-1001",
+    "name": "John Patel",
+    "email": "john.patel1@example.com",
+    "vip": false,
+    "lifetime_value": 4466.29
+  },
+  {
+    "customer_id": "CUST-1002",
+    "name": "Wei Lopez",
+    "email": "wei.lopez2@example.com",
+    "vip": true,
+    "lifetime_value": 513.79
+  },
+  {
+    "customer_id": "CUST-1003",
+    "name": "Emma Smith",
+    "email": "emma.smith3@example.com",
+    "vip": false,
+    "lifetime_value": 3594.3
+  },
+  {
+    "customer_id": "CUST-1004",
+    "name": "Ana Nguyen",
+    "email": "ana.nguyen4@example.com",
+    "vip": false,
+    "lifetime_value": 1427.04
+  },
+  {
+    "customer_id": "CUST-1005",
+    "name": "James Kim",
+    "email": "james.kim5@example.com",
+    "vip": false,
+    "lifetime_value": 1734.24
+  },
+  {
+    "customer_id": "CUST-1006",
+    "name": "John Rossi",
+    "email": "john.rossi6@example.com",
+    "vip": false,
+    "lifetime_value": 1716.14
+  },
+  {
+    "customer_id": "CUST-1007",
+    "name": "Wei Lee",
+    "email": "wei.lee7@example.com",
+    "vip": false,
+    "lifetime_value": 4245.1
+  },
+  {
+    "customer_id": "CUST-1008",
+    "name": "Mohammed Garcia",
+    "email": "mohammed.garcia8@example.com",
+    "vip": false,
+    "lifetime_value": 2704.33
+  },
+  {
+    "customer_id": "CUST-1009",
+    "name": "Noah Chen",
+    "email": "noah.chen9@example.com",
+    "vip": false,
+    "lifetime_value": 4155.55
+  },
+  {
+    "customer_id": "CUST-1010",
+    "name": "Yuki Rossi",
+    "email": "yuki.rossi10@example.com",
+    "vip": false,
+    "lifetime_value": 276.83
+  },
+  {
+    "customer_id": "CUST-1011",
+    "name": "Emma Silva",
+    "email": "emma.silva11@example.com",
+    "vip": false,
+    "lifetime_value": 4283.82
+  },
+  {
+    "customer_id": "CUST-1012",
+    "name": "Aisha Lee",
+    "email": "aisha.lee12@example.com",
+    "vip": false,
+    "lifetime_value": 3196.64
+  },
+  {
+    "customer_id": "CUST-1013",
+    "name": "Yuki Kim",
+    "email": "yuki.kim13@example.com",
+    "vip": false,
+    "lifetime_value": 1087.06
+  },
+  {
+    "customer_id": "CUST-1014",
+    "name": "Mohammed Chen",
+    "email": "mohammed.chen14@example.com",
+    "vip": false,
+    "lifetime_value": 897.14
+  },
+  {
+    "customer_id": "CUST-1015",
+    "name": "Emma Kim",
+    "email": "emma.kim15@example.com",
+    "vip": false,
+    "lifetime_value": 1386.24
+  },
+  {
+    "customer_id": "CUST-1016",
+    "name": "Emma Muller",
+    "email": "emma.muller16@example.com",
+    "vip": false,
+    "lifetime_value": 3891.2
+  },
+  {
+    "customer_id": "CUST-1017",
+    "name": "Emma Garcia",
+    "email": "emma.garcia17@example.com",
+    "vip": false,
+    "lifetime_value": 2035.77
+  },
+  {
+    "customer_id": "CUST-1018",
+    "name": "Wei Rossi",
+    "email": "wei.rossi18@example.com",
+    "vip": false,
+    "lifetime_value": 2857.54
+  },
+  {
+    "customer_id": "CUST-1019",
+    "name": "Liam Rossi",
+    "email": "liam.rossi19@example.com",
+    "vip": false,
+    "lifetime_value": 2008.38
+  },
+  {
+    "customer_id": "CUST-1020",
+    "name": "David Johnson",
+    "email": "david.johnson20@example.com",
+    "vip": false,
+    "lifetime_value": 1270.81
+  },
+  {
+    "customer_id": "CUST-1021",
+    "name": "Mohammed Lopez",
+    "email": "mohammed.lopez21@example.com",
+    "vip": false,
+    "lifetime_value": 2027.03
+  },
+  {
+    "customer_id": "CUST-1022",
+    "name": "Emma Johnson",
+    "email": "emma.johnson22@example.com",
+    "vip": false,
+    "lifetime_value": 500.0
+  },
+  {
+    "customer_id": "CUST-1023",
+    "name": "Maria Patel",
+    "email": "maria.patel23@example.com",
+    "vip": false,
+    "lifetime_value": 841.91
+  },
+  {
+    "customer_id": "CUST-1024",
+    "name": "Ana Chen",
+    "email": "ana.chen24@example.com",
+    "vip": false,
+    "lifetime_value": 2999.65
+  },
+  {
+    "customer_id": "CUST-1025",
+    "name": "David Brown",
+    "email": "david.brown25@example.com",
+    "vip": false,
+    "lifetime_value": 4310.86
+  },
+  {
+    "customer_id": "CUST-1026",
+    "name": "James Patel",
+    "email": "james.patel26@example.com",
+    "vip": false,
+    "lifetime_value": 2708.0
+  },
+  {
+    "customer_id": "CUST-1027",
+    "name": "Mohammed Muller",
+    "email": "mohammed.muller27@example.com",
+    "vip": false,
+    "lifetime_value": 2202.09
+  },
+  {
+    "customer_id": "CUST-1028",
+    "name": "David Smith",
+    "email": "david.smith28@example.com",
+    "vip": false,
+    "lifetime_value": 4385.47
+  },
+  {
+    "customer_id": "CUST-1029",
+    "name": "Mohammed Kim",
+    "email": "mohammed.kim29@example.com",
+    "vip": false,
+    "lifetime_value": 576.73
+  },
+  {
+    "customer_id": "CUST-1030",
+    "name": "Sofia Rossi",
+    "email": "sofia.rossi30@example.com",
+    "vip": false,
+    "lifetime_value": 3824.43
+  },
+  {
+    "customer_id": "CUST-1031",
+    "name": "James Muller",
+    "email": "james.muller31@example.com",
+    "vip": false,
+    "lifetime_value": 603.75
+  },
+  {
+    "customer_id": "CUST-1032",
+    "name": "Yuki Silva",
+    "email": "yuki.silva32@example.com",
+    "vip": false,
+    "lifetime_value": 1242.31
+  },
+  {
+    "customer_id": "CUST-1033",
+    "name": "Wei Chen",
+    "email": "wei.chen33@example.com",
+    "vip": false,
+    "lifetime_value": 4089.32
+  },
+  {
+    "customer_id": "CUST-1034",
+    "name": "John Johnson",
+    "email": "john.johnson34@example.com",
+    "vip": false,
+    "lifetime_value": 4736.9
+  },
+  {
+    "customer_id": "CUST-1035",
+    "name": "Priya Brown",
+    "email": "priya.brown35@example.com",
+    "vip": false,
+    "lifetime_value": 3052.64
+  },
+  {
+    "customer_id": "CUST-1036",
+    "name": "Carlos Rossi",
+    "email": "carlos.rossi36@example.com",
+    "vip": false,
+    "lifetime_value": 2025.01
+  },
+  {
+    "customer_id": "CUST-1037",
+    "name": "Yuki Jones",
+    "email": "yuki.jones37@example.com",
+    "vip": false,
+    "lifetime_value": 2284.86
+  },
+  {
+    "customer_id": "CUST-1038",
+    "name": "Emma Nguyen",
+    "email": "emma.nguyen38@example.com",
+    "vip": true,
+    "lifetime_value": 154.12
+  },
+  {
+    "customer_id": "CUST-1039",
+    "name": "Emma Nguyen",
+    "email": "emma.nguyen39@example.com",
+    "vip": true,
+    "lifetime_value": 3553.81
+  },
+  {
+    "customer_id": "CUST-1040",
+    "name": "Maria Nguyen",
+    "email": "maria.nguyen40@example.com",
+    "vip": true,
+    "lifetime_value": 205.49
+  },
+  {
+    "customer_id": "CUST-1041",
+    "name": "Liam Chen",
+    "email": "liam.chen41@example.com",
+    "vip": false,
+    "lifetime_value": 1428.46
+  },
+  {
+    "customer_id": "CUST-1042",
+    "name": "Mei Rossi",
+    "email": "mei.rossi42@example.com",
+    "vip": false,
+    "lifetime_value": 3630.6
+  },
+  {
+    "customer_id": "CUST-1043",
+    "name": "Mei Nguyen",
+    "email": "mei.nguyen43@example.com",
+    "vip": false,
+    "lifetime_value": 4047.11
+  },
+  {
+    "customer_id": "CUST-1044",
+    "name": "Carlos Patel",
+    "email": "carlos.patel44@example.com",
+    "vip": false,
+    "lifetime_value": 2183.7
+  },
+  {
+    "customer_id": "CUST-1045",
+    "name": "Ana Lopez",
+    "email": "ana.lopez45@example.com",
+    "vip": false,
+    "lifetime_value": 3658.93
+  },
+  {
+    "customer_id": "CUST-1046",
+    "name": "Aisha Garcia",
+    "email": "aisha.garcia46@example.com",
+    "vip": false,
+    "lifetime_value": 1729.55
+  },
+  {
+    "customer_id": "CUST-1047",
+    "name": "Aisha Nguyen",
+    "email": "aisha.nguyen47@example.com",
+    "vip": false,
+    "lifetime_value": 2704.61
+  },
+  {
+    "customer_id": "CUST-1048",
+    "name": "John Lopez",
+    "email": "john.lopez48@example.com",
+    "vip": false,
+    "lifetime_value": 2340.01
+  },
+  {
+    "customer_id": "CUST-1049",
+    "name": "Wei Jones",
+    "email": "wei.jones49@example.com",
+    "vip": false,
+    "lifetime_value": 4287.04
+  },
+  {
+    "customer_id": "CUST-1050",
+    "name": "Aisha Garcia",
+    "email": "aisha.garcia50@example.com",
+    "vip": false,
+    "lifetime_value": 2725.91
+  },
+  {
+    "customer_id": "CUST-1051",
+    "name": "James Chen",
+    "email": "james.chen51@example.com",
+    "vip": false,
+    "lifetime_value": 4251.04
+  },
+  {
+    "customer_id": "CUST-1052",
+    "name": "Priya Lopez",
+    "email": "priya.lopez52@example.com",
+    "vip": false,
+    "lifetime_value": 1108.05
+  },
+  {
+    "customer_id": "CUST-1053",
+    "name": "Noah Garcia",
+    "email": "noah.garcia53@example.com",
+    "vip": false,
+    "lifetime_value": 60.67
+  },
+  {
+    "customer_id": "CUST-1054",
+    "name": "Noah Brown",
+    "email": "noah.brown54@example.com",
+    "vip": false,
+    "lifetime_value": 3936.39
+  },
+  {
+    "customer_id": "CUST-1055",
+    "name": "Sofia Lopez",
+    "email": "sofia.lopez55@example.com",
+    "vip": false,
+    "lifetime_value": 3666.0
+  },
+  {
+    "customer_id": "CUST-1056",
+    "name": "Mei Johnson",
+    "email": "mei.johnson56@example.com",
+    "vip": false,
+    "lifetime_value": 1127.62
+  },
+  {
+    "customer_id": "CUST-1057",
+    "name": "Maria Garcia",
+    "email": "maria.garcia57@example.com",
+    "vip": false,
+    "lifetime_value": 332.97
+  },
+  {
+    "customer_id": "CUST-1058",
+    "name": "Mei Kim",
+    "email": "mei.kim58@example.com",
+    "vip": true,
+    "lifetime_value": 2563.75
+  },
+  {
+    "customer_id": "CUST-1059",
+    "name": "Priya Chen",
+    "email": "priya.chen59@example.com",
+    "vip": false,
+    "lifetime_value": 3392.3
+  },
+  {
+    "customer_id": "CUST-1060",
+    "name": "Emma Lee",
+    "email": "emma.lee60@example.com",
+    "vip": false,
+    "lifetime_value": 4456.92
+  },
+  {
+    "customer_id": "CUST-1061",
+    "name": "Emma Garcia",
+    "email": "emma.garcia61@example.com",
+    "vip": false,
+    "lifetime_value": 2125.16
+  },
+  {
+    "customer_id": "CUST-1062",
+    "name": "Liam Brown",
+    "email": "liam.brown62@example.com",
+    "vip": false,
+    "lifetime_value": 3595.15
+  },
+  {
+    "customer_id": "CUST-1063",
+    "name": "Emma Brown",
+    "email": "emma.brown63@example.com",
+    "vip": false,
+    "lifetime_value": 3374.87
+  },
+  {
+    "customer_id": "CUST-1064",
+    "name": "Sofia Jones",
+    "email": "sofia.jones64@example.com",
+    "vip": false,
+    "lifetime_value": 3771.73
+  },
+  {
+    "customer_id": "CUST-1065",
+    "name": "Wei Smith",
+    "email": "wei.smith65@example.com",
+    "vip": false,
+    "lifetime_value": 4992.35
+  },
+  {
+    "customer_id": "CUST-1066",
+    "name": "Aisha Chen",
+    "email": "aisha.chen66@example.com",
+    "vip": false,
+    "lifetime_value": 2554.13
+  },
+  {
+    "customer_id": "CUST-1067",
+    "name": "John Tanaka",
+    "email": "john.tanaka67@example.com",
+    "vip": false,
+    "lifetime_value": 4402.39
+  },
+  {
+    "customer_id": "CUST-1068",
+    "name": "Yuki Silva",
+    "email": "yuki.silva68@example.com",
+    "vip": false,
+    "lifetime_value": 4177.04
+  },
+  {
+    "customer_id": "CUST-1069",
+    "name": "Sofia Smith",
+    "email": "sofia.smith69@example.com",
+    "vip": false,
+    "lifetime_value": 2795.28
+  },
+  {
+    "customer_id": "CUST-1070",
+    "name": "Aisha Johnson",
+    "email": "aisha.johnson70@example.com",
+    "vip": false,
+    "lifetime_value": 4454.08
+  },
+  {
+    "customer_id": "CUST-1071",
+    "name": "John Brown",
+    "email": "john.brown71@example.com",
+    "vip": false,
+    "lifetime_value": 1092.62
+  },
+  {
+    "customer_id": "CUST-1072",
+    "name": "Liam Rossi",
+    "email": "liam.rossi72@example.com",
+    "vip": false,
+    "lifetime_value": 4271.92
+  },
+  {
+    "customer_id": "CUST-1073",
+    "name": "Mei Brown",
+    "email": "mei.brown73@example.com",
+    "vip": false,
+    "lifetime_value": 4238.21
+  },
+  {
+    "customer_id": "CUST-1074",
+    "name": "Wei Lopez",
+    "email": "wei.lopez74@example.com",
+    "vip": false,
+    "lifetime_value": 268.23
+  },
+  {
+    "customer_id": "CUST-1075",
+    "name": "Liam Johnson",
+    "email": "liam.johnson75@example.com",
+    "vip": false,
+    "lifetime_value": 1346.68
+  },
+  {
+    "customer_id": "CUST-1076",
+    "name": "David Lopez",
+    "email": "david.lopez76@example.com",
+    "vip": false,
+    "lifetime_value": 603.78
+  },
+  {
+    "customer_id": "CUST-1077",
+    "name": "John Garcia",
+    "email": "john.garcia77@example.com",
+    "vip": false,
+    "lifetime_value": 2933.42
+  },
+  {
+    "customer_id": "CUST-1078",
+    "name": "John Lopez",
+    "email": "john.lopez78@example.com",
+    "vip": false,
+    "lifetime_value": 1575.88
+  },
+  {
+    "customer_id": "CUST-1079",
+    "name": "Maria Tanaka",
+    "email": "maria.tanaka79@example.com",
+    "vip": false,
+    "lifetime_value": 1285.17
+  },
+  {
+    "customer_id": "CUST-1080",
+    "name": "Aisha Tanaka",
+    "email": "aisha.tanaka80@example.com",
+    "vip": false,
+    "lifetime_value": 4426.47
+  },
+  {
+    "customer_id": "CUST-1081",
+    "name": "Ana Johnson",
+    "email": "ana.johnson81@example.com",
+    "vip": false,
+    "lifetime_value": 1221.85
+  },
+  {
+    "customer_id": "CUST-1082",
+    "name": "Priya Kim",
+    "email": "priya.kim82@example.com",
+    "vip": false,
+    "lifetime_value": 172.69
+  },
+  {
+    "customer_id": "CUST-1083",
+    "name": "Liam Lopez",
+    "email": "liam.lopez83@example.com",
+    "vip": false,
+    "lifetime_value": 4327.12
+  },
+  {
+    "customer_id": "CUST-1084",
+    "name": "Emma Brown",
+    "email": "emma.brown84@example.com",
+    "vip": false,
+    "lifetime_value": 3521.33
+  },
+  {
+    "customer_id": "CUST-1085",
+    "name": "Noah Garcia",
+    "email": "noah.garcia85@example.com",
+    "vip": false,
+    "lifetime_value": 1151.05
+  },
+  {
+    "customer_id": "CUST-1086",
+    "name": "David Tanaka",
+    "email": "david.tanaka86@example.com",
+    "vip": false,
+    "lifetime_value": 3986.96
+  },
+  {
+    "customer_id": "CUST-1087",
+    "name": "Emma Nguyen",
+    "email": "emma.nguyen87@example.com",
+    "vip": true,
+    "lifetime_value": 1005.99
+  },
+  {
+    "customer_id": "CUST-1088",
+    "name": "Liam Brown",
+    "email": "liam.brown88@example.com",
+    "vip": false,
+    "lifetime_value": 4836.1
+  },
+  {
+    "customer_id": "CUST-1089",
+    "name": "Mohammed Tanaka",
+    "email": "mohammed.tanaka89@example.com",
+    "vip": false,
+    "lifetime_value": 2028.41
+  },
+  {
+    "customer_id": "CUST-1090",
+    "name": "Liam Smith",
+    "email": "liam.smith90@example.com",
+    "vip": false,
+    "lifetime_value": 4853.48
+  },
+  {
+    "customer_id": "CUST-1091",
+    "name": "Priya Brown",
+    "email": "priya.brown91@example.com",
+    "vip": true,
+    "lifetime_value": 3003.03
+  },
+  {
+    "customer_id": "CUST-1092",
+    "name": "Yuki Muller",
+    "email": "yuki.muller92@example.com",
+    "vip": false,
+    "lifetime_value": 4921.97
+  },
+  {
+    "customer_id": "CUST-1093",
+    "name": "Aisha Lee",
+    "email": "aisha.lee93@example.com",
+    "vip": false,
+    "lifetime_value": 990.89
+  },
+  {
+    "customer_id": "CUST-1094",
+    "name": "Maria Lopez",
+    "email": "maria.lopez94@example.com",
+    "vip": true,
+    "lifetime_value": 4631.6
+  },
+  {
+    "customer_id": "CUST-1095",
+    "name": "Carlos Tanaka",
+    "email": "carlos.tanaka95@example.com",
+    "vip": false,
+    "lifetime_value": 4746.93
+  },
+  {
+    "customer_id": "CUST-1096",
+    "name": "Liam Muller",
+    "email": "liam.muller96@example.com",
+    "vip": false,
+    "lifetime_value": 666.9
+  },
+  {
+    "customer_id": "CUST-1097",
+    "name": "Sofia Silva",
+    "email": "sofia.silva97@example.com",
+    "vip": false,
+    "lifetime_value": 1664.61
+  },
+  {
+    "customer_id": "CUST-1098",
+    "name": "Sofia Johnson",
+    "email": "sofia.johnson98@example.com",
+    "vip": false,
+    "lifetime_value": 3341.4
+  },
+  {
+    "customer_id": "CUST-1099",
+    "name": "Noah Kim",
+    "email": "noah.kim99@example.com",
+    "vip": false,
+    "lifetime_value": 1539.7
+  },
+  {
+    "customer_id": "CUST-1100",
+    "name": "James Silva",
+    "email": "james.silva100@example.com",
+    "vip": false,
+    "lifetime_value": 2177.95
+  },
+  {
+    "customer_id": "CUST-1101",
+    "name": "Liam Jones",
+    "email": "liam.jones101@example.com",
+    "vip": false,
+    "lifetime_value": 3394.35
+  },
+  {
+    "customer_id": "CUST-1102",
+    "name": "Mei Kim",
+    "email": "mei.kim102@example.com",
+    "vip": false,
+    "lifetime_value": 1454.74
+  },
+  {
+    "customer_id": "CUST-1103",
+    "name": "Liam Chen",
+    "email": "liam.chen103@example.com",
+    "vip": false,
+    "lifetime_value": 3768.13
+  },
+  {
+    "customer_id": "CUST-1104",
+    "name": "Sofia Nguyen",
+    "email": "sofia.nguyen104@example.com",
+    "vip": false,
+    "lifetime_value": 779.4
+  },
+  {
+    "customer_id": "CUST-1105",
+    "name": "Maria Nguyen",
+    "email": "maria.nguyen105@example.com",
+    "vip": false,
+    "lifetime_value": 3075.81
+  },
+  {
+    "customer_id": "CUST-1106",
+    "name": "Wei Jones",
+    "email": "wei.jones106@example.com",
+    "vip": false,
+    "lifetime_value": 3167.34
+  },
+  {
+    "customer_id": "CUST-1107",
+    "name": "Carlos Lee",
+    "email": "carlos.lee107@example.com",
+    "vip": false,
+    "lifetime_value": 1257.72
+  },
+  {
+    "customer_id": "CUST-1108",
+    "name": "James Patel",
+    "email": "james.patel108@example.com",
+    "vip": false,
+    "lifetime_value": 1133.26
+  },
+  {
+    "customer_id": "CUST-1109",
+    "name": "David Garcia",
+    "email": "david.garcia109@example.com",
+    "vip": false,
+    "lifetime_value": 4591.48
+  },
+  {
+    "customer_id": "CUST-1110",
+    "name": "Aisha Jones",
+    "email": "aisha.jones110@example.com",
+    "vip": false,
+    "lifetime_value": 2349.98
+  },
+  {
+    "customer_id": "CUST-1111",
+    "name": "Liam Jones",
+    "email": "liam.jones111@example.com",
+    "vip": false,
+    "lifetime_value": 3610.41
+  },
+  {
+    "customer_id": "CUST-1112",
+    "name": "Ana Jones",
+    "email": "ana.jones112@example.com",
+    "vip": false,
+    "lifetime_value": 3731.09
+  },
+  {
+    "customer_id": "CUST-1113",
+    "name": "Mei Jones",
+    "email": "mei.jones113@example.com",
+    "vip": false,
+    "lifetime_value": 1273.84
+  },
+  {
+    "customer_id": "CUST-1114",
+    "name": "Mohammed Wang",
+    "email": "mohammed.wang114@example.com",
+    "vip": false,
+    "lifetime_value": 1409.26
+  },
+  {
+    "customer_id": "CUST-1115",
+    "name": "Wei Silva",
+    "email": "wei.silva115@example.com",
+    "vip": false,
+    "lifetime_value": 1712.45
+  },
+  {
+    "customer_id": "CUST-1116",
+    "name": "Wei Johnson",
+    "email": "wei.johnson116@example.com",
+    "vip": false,
+    "lifetime_value": 1946.02
+  },
+  {
+    "customer_id": "CUST-1117",
+    "name": "John Rossi",
+    "email": "john.rossi117@example.com",
+    "vip": true,
+    "lifetime_value": 2067.62
+  },
+  {
+    "customer_id": "CUST-1118",
+    "name": "David Lopez",
+    "email": "david.lopez118@example.com",
+    "vip": true,
+    "lifetime_value": 4172.81
+  },
+  {
+    "customer_id": "CUST-1119",
+    "name": "Noah Smith",
+    "email": "noah.smith119@example.com",
+    "vip": false,
+    "lifetime_value": 3839.69
+  },
+  {
+    "customer_id": "CUST-1120",
+    "name": "Noah Wang",
+    "email": "noah.wang120@example.com",
+    "vip": true,
+    "lifetime_value": 1791.21
+  },
+  {
+    "customer_id": "CUST-1121",
+    "name": "Noah Lopez",
+    "email": "noah.lopez121@example.com",
+    "vip": false,
+    "lifetime_value": 3686.44
+  },
+  {
+    "customer_id": "CUST-1122",
+    "name": "Emma Wang",
+    "email": "emma.wang122@example.com",
+    "vip": false,
+    "lifetime_value": 2207.39
+  },
+  {
+    "customer_id": "CUST-1123",
+    "name": "James Lee",
+    "email": "james.lee123@example.com",
+    "vip": false,
+    "lifetime_value": 3411.75
+  },
+  {
+    "customer_id": "CUST-1124",
+    "name": "Noah Kim",
+    "email": "noah.kim124@example.com",
+    "vip": false,
+    "lifetime_value": 4601.73
+  },
+  {
+    "customer_id": "CUST-1125",
+    "name": "James Lee",
+    "email": "james.lee125@example.com",
+    "vip": false,
+    "lifetime_value": 3331.85
+  },
+  {
+    "customer_id": "CUST-1126",
+    "name": "Wei Lopez",
+    "email": "wei.lopez126@example.com",
+    "vip": false,
+    "lifetime_value": 2335.41
+  },
+  {
+    "customer_id": "CUST-1127",
+    "name": "Maria Brown",
+    "email": "maria.brown127@example.com",
+    "vip": false,
+    "lifetime_value": 1097.72
+  },
+  {
+    "customer_id": "CUST-1128",
+    "name": "Liam Muller",
+    "email": "liam.muller128@example.com",
+    "vip": false,
+    "lifetime_value": 1926.67
+  },
+  {
+    "customer_id": "CUST-1129",
+    "name": "Ana Brown",
+    "email": "ana.brown129@example.com",
+    "vip": false,
+    "lifetime_value": 2378.02
+  },
+  {
+    "customer_id": "CUST-1130",
+    "name": "Maria Tanaka",
+    "email": "maria.tanaka130@example.com",
+    "vip": false,
+    "lifetime_value": 389.66
+  },
+  {
+    "customer_id": "CUST-1131",
+    "name": "Maria Smith",
+    "email": "maria.smith131@example.com",
+    "vip": false,
+    "lifetime_value": 1036.84
+  },
+  {
+    "customer_id": "CUST-1132",
+    "name": "James Johnson",
+    "email": "james.johnson132@example.com",
+    "vip": false,
+    "lifetime_value": 2394.13
+  },
+  {
+    "customer_id": "CUST-1133",
+    "name": "Aisha Rossi",
+    "email": "aisha.rossi133@example.com",
+    "vip": false,
+    "lifetime_value": 1318.41
+  },
+  {
+    "customer_id": "CUST-1134",
+    "name": "Yuki Kim",
+    "email": "yuki.kim134@example.com",
+    "vip": false,
+    "lifetime_value": 4820.49
+  },
+  {
+    "customer_id": "CUST-1135",
+    "name": "Aisha Kim",
+    "email": "aisha.kim135@example.com",
+    "vip": false,
+    "lifetime_value": 585.09
+  },
+  {
+    "customer_id": "CUST-1136",
+    "name": "James Silva",
+    "email": "james.silva136@example.com",
+    "vip": false,
+    "lifetime_value": 4544.73
+  },
+  {
+    "customer_id": "CUST-1137",
+    "name": "Noah Lee",
+    "email": "noah.lee137@example.com",
+    "vip": false,
+    "lifetime_value": 1031.73
+  },
+  {
+    "customer_id": "CUST-1138",
+    "name": "Emma Patel",
+    "email": "emma.patel138@example.com",
+    "vip": false,
+    "lifetime_value": 1542.83
+  },
+  {
+    "customer_id": "CUST-1139",
+    "name": "Aisha Garcia",
+    "email": "aisha.garcia139@example.com",
+    "vip": false,
+    "lifetime_value": 2170.47
+  },
+  {
+    "customer_id": "CUST-1140",
+    "name": "Yuki Chen",
+    "email": "yuki.chen140@example.com",
+    "vip": false,
+    "lifetime_value": 1739.09
+  },
+  {
+    "customer_id": "CUST-1141",
+    "name": "Ana Wang",
+    "email": "ana.wang141@example.com",
+    "vip": false,
+    "lifetime_value": 4805.9
+  },
+  {
+    "customer_id": "CUST-1142",
+    "name": "David Johnson",
+    "email": "david.johnson142@example.com",
+    "vip": false,
+    "lifetime_value": 3682.29
+  },
+  {
+    "customer_id": "CUST-1143",
+    "name": "Mohammed Wang",
+    "email": "mohammed.wang143@example.com",
+    "vip": false,
+    "lifetime_value": 4137.39
+  },
+  {
+    "customer_id": "CUST-1144",
+    "name": "Mohammed Muller",
+    "email": "mohammed.muller144@example.com",
+    "vip": false,
+    "lifetime_value": 4162.12
+  },
+  {
+    "customer_id": "CUST-1145",
+    "name": "Wei Brown",
+    "email": "wei.brown145@example.com",
+    "vip": false,
+    "lifetime_value": 1257.12
+  },
+  {
+    "customer_id": "CUST-1146",
+    "name": "David Lee",
+    "email": "david.lee146@example.com",
+    "vip": false,
+    "lifetime_value": 2496.82
+  },
+  {
+    "customer_id": "CUST-1147",
+    "name": "Liam Kim",
+    "email": "liam.kim147@example.com",
+    "vip": false,
+    "lifetime_value": 1806.38
+  },
+  {
+    "customer_id": "CUST-1148",
+    "name": "Mohammed Muller",
+    "email": "mohammed.muller148@example.com",
+    "vip": false,
+    "lifetime_value": 3000.97
+  },
+  {
+    "customer_id": "CUST-1149",
+    "name": "Mohammed Smith",
+    "email": "mohammed.smith149@example.com",
+    "vip": false,
+    "lifetime_value": 995.73
+  },
+  {
+    "customer_id": "CUST-1150",
+    "name": "Emma Lopez",
+    "email": "emma.lopez150@example.com",
+    "vip": false,
+    "lifetime_value": 3802.92
+  },
+  {
+    "customer_id": "CUST-1151",
+    "name": "Mei Wang",
+    "email": "mei.wang151@example.com",
+    "vip": false,
+    "lifetime_value": 135.35
+  },
+  {
+    "customer_id": "CUST-1152",
+    "name": "Sofia Nguyen",
+    "email": "sofia.nguyen152@example.com",
+    "vip": false,
+    "lifetime_value": 1254.36
+  },
+  {
+    "customer_id": "CUST-1153",
+    "name": "Yuki Wang",
+    "email": "yuki.wang153@example.com",
+    "vip": false,
+    "lifetime_value": 1751.6
+  },
+  {
+    "customer_id": "CUST-1154",
+    "name": "Liam Tanaka",
+    "email": "liam.tanaka154@example.com",
+    "vip": false,
+    "lifetime_value": 1391.04
+  },
+  {
+    "customer_id": "CUST-1155",
+    "name": "Mohammed Nguyen",
+    "email": "mohammed.nguyen155@example.com",
+    "vip": false,
+    "lifetime_value": 1003.29
+  },
+  {
+    "customer_id": "CUST-1156",
+    "name": "Aisha Kim",
+    "email": "aisha.kim156@example.com",
+    "vip": false,
+    "lifetime_value": 3706.09
+  },
+  {
+    "customer_id": "CUST-1157",
+    "name": "Mohammed Silva",
+    "email": "mohammed.silva157@example.com",
+    "vip": false,
+    "lifetime_value": 4171.51
+  },
+  {
+    "customer_id": "CUST-1158",
+    "name": "Sofia Nguyen",
+    "email": "sofia.nguyen158@example.com",
+    "vip": false,
+    "lifetime_value": 1546.22
+  },
+  {
+    "customer_id": "CUST-1159",
+    "name": "John Brown",
+    "email": "john.brown159@example.com",
+    "vip": true,
+    "lifetime_value": 319.9
+  },
+  {
+    "customer_id": "CUST-1160",
+    "name": "Sofia Johnson",
+    "email": "sofia.johnson160@example.com",
+    "vip": false,
+    "lifetime_value": 3776.32
+  },
+  {
+    "customer_id": "CUST-1161",
+    "name": "Aisha Smith",
+    "email": "aisha.smith161@example.com",
+    "vip": false,
+    "lifetime_value": 2373.51
+  },
+  {
+    "customer_id": "CUST-1162",
+    "name": "David Muller",
+    "email": "david.muller162@example.com",
+    "vip": false,
+    "lifetime_value": 304.31
+  },
+  {
+    "customer_id": "CUST-1163",
+    "name": "Mei Patel",
+    "email": "mei.patel163@example.com",
+    "vip": false,
+    "lifetime_value": 2033.5
+  },
+  {
+    "customer_id": "CUST-1164",
+    "name": "Wei Garcia",
+    "email": "wei.garcia164@example.com",
+    "vip": false,
+    "lifetime_value": 4065.15
+  },
+  {
+    "customer_id": "CUST-1165",
+    "name": "Sofia Chen",
+    "email": "sofia.chen165@example.com",
+    "vip": false,
+    "lifetime_value": 636.34
+  },
+  {
+    "customer_id": "CUST-1166",
+    "name": "Ana Nguyen",
+    "email": "ana.nguyen166@example.com",
+    "vip": false,
+    "lifetime_value": 1932.87
+  },
+  {
+    "customer_id": "CUST-1167",
+    "name": "David Silva",
+    "email": "david.silva167@example.com",
+    "vip": false,
+    "lifetime_value": 4950.65
+  },
+  {
+    "customer_id": "CUST-1168",
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia168@example.com",
+    "vip": false,
+    "lifetime_value": 3713.44
+  },
+  {
+    "customer_id": "CUST-1169",
+    "name": "Carlos Rossi",
+    "email": "carlos.rossi169@example.com",
+    "vip": false,
+    "lifetime_value": 451.88
+  },
+  {
+    "customer_id": "CUST-1170",
+    "name": "Emma Kim",
+    "email": "emma.kim170@example.com",
+    "vip": false,
+    "lifetime_value": 824.84
+  },
+  {
+    "customer_id": "CUST-1171",
+    "name": "Ana Jones",
+    "email": "ana.jones171@example.com",
+    "vip": false,
+    "lifetime_value": 2376.07
+  },
+  {
+    "customer_id": "CUST-1172",
+    "name": "Maria Nguyen",
+    "email": "maria.nguyen172@example.com",
+    "vip": false,
+    "lifetime_value": 1449.46
+  },
+  {
+    "customer_id": "CUST-1173",
+    "name": "David Chen",
+    "email": "david.chen173@example.com",
+    "vip": false,
+    "lifetime_value": 4623.36
+  },
+  {
+    "customer_id": "CUST-1174",
+    "name": "Carlos Lopez",
+    "email": "carlos.lopez174@example.com",
+    "vip": false,
+    "lifetime_value": 1162.81
+  },
+  {
+    "customer_id": "CUST-1175",
+    "name": "John Brown",
+    "email": "john.brown175@example.com",
+    "vip": false,
+    "lifetime_value": 403.48
+  },
+  {
+    "customer_id": "CUST-1176",
+    "name": "Priya Silva",
+    "email": "priya.silva176@example.com",
+    "vip": false,
+    "lifetime_value": 4129.99
+  },
+  {
+    "customer_id": "CUST-1177",
+    "name": "Sofia Jones",
+    "email": "sofia.jones177@example.com",
+    "vip": false,
+    "lifetime_value": 3458.96
+  },
+  {
+    "customer_id": "CUST-1178",
+    "name": "Noah Brown",
+    "email": "noah.brown178@example.com",
+    "vip": false,
+    "lifetime_value": 2494.29
+  },
+  {
+    "customer_id": "CUST-1179",
+    "name": "Wei Garcia",
+    "email": "wei.garcia179@example.com",
+    "vip": false,
+    "lifetime_value": 3685.94
+  },
+  {
+    "customer_id": "CUST-1180",
+    "name": "Mohammed Smith",
+    "email": "mohammed.smith180@example.com",
+    "vip": false,
+    "lifetime_value": 4811.46
+  },
+  {
+    "customer_id": "CUST-1181",
+    "name": "James Brown",
+    "email": "james.brown181@example.com",
+    "vip": false,
+    "lifetime_value": 3827.39
+  },
+  {
+    "customer_id": "CUST-1182",
+    "name": "Priya Wang",
+    "email": "priya.wang182@example.com",
+    "vip": false,
+    "lifetime_value": 2239.04
+  },
+  {
+    "customer_id": "CUST-1183",
+    "name": "Mohammed Kim",
+    "email": "mohammed.kim183@example.com",
+    "vip": false,
+    "lifetime_value": 2207.63
+  },
+  {
+    "customer_id": "CUST-1184",
+    "name": "Mei Chen",
+    "email": "mei.chen184@example.com",
+    "vip": false,
+    "lifetime_value": 2071.32
+  },
+  {
+    "customer_id": "CUST-1185",
+    "name": "Liam Patel",
+    "email": "liam.patel185@example.com",
+    "vip": false,
+    "lifetime_value": 1682.53
+  },
+  {
+    "customer_id": "CUST-1186",
+    "name": "Mei Silva",
+    "email": "mei.silva186@example.com",
+    "vip": false,
+    "lifetime_value": 2032.24
+  },
+  {
+    "customer_id": "CUST-1187",
+    "name": "Maria Jones",
+    "email": "maria.jones187@example.com",
+    "vip": false,
+    "lifetime_value": 1299.37
+  },
+  {
+    "customer_id": "CUST-1188",
+    "name": "Aisha Lee",
+    "email": "aisha.lee188@example.com",
+    "vip": false,
+    "lifetime_value": 4133.39
+  },
+  {
+    "customer_id": "CUST-1189",
+    "name": "James Jones",
+    "email": "james.jones189@example.com",
+    "vip": false,
+    "lifetime_value": 978.53
+  },
+  {
+    "customer_id": "CUST-1190",
+    "name": "Yuki Wang",
+    "email": "yuki.wang190@example.com",
+    "vip": false,
+    "lifetime_value": 3811.95
+  },
+  {
+    "customer_id": "CUST-1191",
+    "name": "Carlos Brown",
+    "email": "carlos.brown191@example.com",
+    "vip": false,
+    "lifetime_value": 4641.98
+  },
+  {
+    "customer_id": "CUST-1192",
+    "name": "David Wang",
+    "email": "david.wang192@example.com",
+    "vip": false,
+    "lifetime_value": 4867.08
+  },
+  {
+    "customer_id": "CUST-1193",
+    "name": "Emma Kim",
+    "email": "emma.kim193@example.com",
+    "vip": false,
+    "lifetime_value": 117.69
+  },
+  {
+    "customer_id": "CUST-1194",
+    "name": "Ana Chen",
+    "email": "ana.chen194@example.com",
+    "vip": false,
+    "lifetime_value": 4214.96
+  },
+  {
+    "customer_id": "CUST-1195",
+    "name": "Aisha Jones",
+    "email": "aisha.jones195@example.com",
+    "vip": false,
+    "lifetime_value": 3256.16
+  },
+  {
+    "customer_id": "CUST-1196",
+    "name": "John Wang",
+    "email": "john.wang196@example.com",
+    "vip": false,
+    "lifetime_value": 1494.71
+  },
+  {
+    "customer_id": "CUST-1197",
+    "name": "Mohammed Lopez",
+    "email": "mohammed.lopez197@example.com",
+    "vip": false,
+    "lifetime_value": 4902.21
+  },
+  {
+    "customer_id": "CUST-1198",
+    "name": "Emma Jones",
+    "email": "emma.jones198@example.com",
+    "vip": false,
+    "lifetime_value": 1948.75
+  },
+  {
+    "customer_id": "CUST-1199",
+    "name": "John Chen",
+    "email": "john.chen199@example.com",
+    "vip": false,
+    "lifetime_value": 3960.53
+  },
+  {
+    "customer_id": "CUST-1200",
+    "name": "Ana Muller",
+    "email": "ana.muller200@example.com",
+    "vip": false,
+    "lifetime_value": 2563.3
+  },
+  {
+    "customer_id": "CUST-1201",
+    "name": "James Silva",
+    "email": "james.silva201@example.com",
+    "vip": false,
+    "lifetime_value": 4195.51
+  },
+  {
+    "customer_id": "CUST-1202",
+    "name": "Mei Johnson",
+    "email": "mei.johnson202@example.com",
+    "vip": false,
+    "lifetime_value": 2447.49
+  },
+  {
+    "customer_id": "CUST-1203",
+    "name": "Liam Lee",
+    "email": "liam.lee203@example.com",
+    "vip": false,
+    "lifetime_value": 1642.8
+  },
+  {
+    "customer_id": "CUST-1204",
+    "name": "Carlos Nguyen",
+    "email": "carlos.nguyen204@example.com",
+    "vip": false,
+    "lifetime_value": 1206.13
+  },
+  {
+    "customer_id": "CUST-1205",
+    "name": "Ana Garcia",
+    "email": "ana.garcia205@example.com",
+    "vip": false,
+    "lifetime_value": 2391.23
+  },
+  {
+    "customer_id": "CUST-1206",
+    "name": "Noah Lee",
+    "email": "noah.lee206@example.com",
+    "vip": false,
+    "lifetime_value": 3972.35
+  },
+  {
+    "customer_id": "CUST-1207",
+    "name": "John Wang",
+    "email": "john.wang207@example.com",
+    "vip": false,
+    "lifetime_value": 674.92
+  },
+  {
+    "customer_id": "CUST-1208",
+    "name": "Liam Patel",
+    "email": "liam.patel208@example.com",
+    "vip": false,
+    "lifetime_value": 2229.52
+  },
+  {
+    "customer_id": "CUST-1209",
+    "name": "David Smith",
+    "email": "david.smith209@example.com",
+    "vip": false,
+    "lifetime_value": 2079.39
+  },
+  {
+    "customer_id": "CUST-1210",
+    "name": "John Chen",
+    "email": "john.chen210@example.com",
+    "vip": false,
+    "lifetime_value": 4847.56
+  },
+  {
+    "customer_id": "CUST-1211",
+    "name": "Liam Lee",
+    "email": "liam.lee211@example.com",
+    "vip": false,
+    "lifetime_value": 4266.24
+  },
+  {
+    "customer_id": "CUST-1212",
+    "name": "Noah Muller",
+    "email": "noah.muller212@example.com",
+    "vip": false,
+    "lifetime_value": 4442.82
+  },
+  {
+    "customer_id": "CUST-1213",
+    "name": "Mei Garcia",
+    "email": "mei.garcia213@example.com",
+    "vip": false,
+    "lifetime_value": 1212.11
+  },
+  {
+    "customer_id": "CUST-1214",
+    "name": "Sofia Nguyen",
+    "email": "sofia.nguyen214@example.com",
+    "vip": false,
+    "lifetime_value": 2198.16
+  },
+  {
+    "customer_id": "CUST-1215",
+    "name": "Aisha Patel",
+    "email": "aisha.patel215@example.com",
+    "vip": false,
+    "lifetime_value": 3485.31
+  },
+  {
+    "customer_id": "CUST-1216",
+    "name": "James Garcia",
+    "email": "james.garcia216@example.com",
+    "vip": false,
+    "lifetime_value": 327.79
+  },
+  {
+    "customer_id": "CUST-1217",
+    "name": "Yuki Tanaka",
+    "email": "yuki.tanaka217@example.com",
+    "vip": false,
+    "lifetime_value": 1258.78
+  },
+  {
+    "customer_id": "CUST-1218",
+    "name": "Ana Kim",
+    "email": "ana.kim218@example.com",
+    "vip": false,
+    "lifetime_value": 440.89
+  },
+  {
+    "customer_id": "CUST-1219",
+    "name": "Noah Nguyen",
+    "email": "noah.nguyen219@example.com",
+    "vip": false,
+    "lifetime_value": 2936.63
+  },
+  {
+    "customer_id": "CUST-1220",
+    "name": "Emma Jones",
+    "email": "emma.jones220@example.com",
+    "vip": false,
+    "lifetime_value": 2324.87
+  },
+  {
+    "customer_id": "CUST-1221",
+    "name": "James Jones",
+    "email": "james.jones221@example.com",
+    "vip": false,
+    "lifetime_value": 3404.17
+  },
+  {
+    "customer_id": "CUST-1222",
+    "name": "Priya Chen",
+    "email": "priya.chen222@example.com",
+    "vip": false,
+    "lifetime_value": 1760.55
+  },
+  {
+    "customer_id": "CUST-1223",
+    "name": "Sofia Lopez",
+    "email": "sofia.lopez223@example.com",
+    "vip": false,
+    "lifetime_value": 2311.34
+  },
+  {
+    "customer_id": "CUST-1224",
+    "name": "Sofia Rossi",
+    "email": "sofia.rossi224@example.com",
+    "vip": false,
+    "lifetime_value": 4274.01
+  },
+  {
+    "customer_id": "CUST-1225",
+    "name": "Aisha Nguyen",
+    "email": "aisha.nguyen225@example.com",
+    "vip": false,
+    "lifetime_value": 1826.85
+  },
+  {
+    "customer_id": "CUST-1226",
+    "name": "Sofia Silva",
+    "email": "sofia.silva226@example.com",
+    "vip": true,
+    "lifetime_value": 4158.69
+  },
+  {
+    "customer_id": "CUST-1227",
+    "name": "Noah Brown",
+    "email": "noah.brown227@example.com",
+    "vip": true,
+    "lifetime_value": 4332.08
+  },
+  {
+    "customer_id": "CUST-1228",
+    "name": "Maria Wang",
+    "email": "maria.wang228@example.com",
+    "vip": false,
+    "lifetime_value": 4519.53
+  },
+  {
+    "customer_id": "CUST-1229",
+    "name": "Emma Tanaka",
+    "email": "emma.tanaka229@example.com",
+    "vip": false,
+    "lifetime_value": 991.15
+  },
+  {
+    "customer_id": "CUST-1230",
+    "name": "Mohammed Johnson",
+    "email": "mohammed.johnson230@example.com",
+    "vip": false,
+    "lifetime_value": 4521.85
+  },
+  {
+    "customer_id": "CUST-1231",
+    "name": "Maria Silva",
+    "email": "maria.silva231@example.com",
+    "vip": false,
+    "lifetime_value": 215.15
+  },
+  {
+    "customer_id": "CUST-1232",
+    "name": "Yuki Johnson",
+    "email": "yuki.johnson232@example.com",
+    "vip": false,
+    "lifetime_value": 1510.8
+  },
+  {
+    "customer_id": "CUST-1233",
+    "name": "Ana Kim",
+    "email": "ana.kim233@example.com",
+    "vip": false,
+    "lifetime_value": 3943.24
+  },
+  {
+    "customer_id": "CUST-1234",
+    "name": "Yuki Brown",
+    "email": "yuki.brown234@example.com",
+    "vip": false,
+    "lifetime_value": 1322.0
+  },
+  {
+    "customer_id": "CUST-1235",
+    "name": "Mei Silva",
+    "email": "mei.silva235@example.com",
+    "vip": false,
+    "lifetime_value": 1726.64
+  },
+  {
+    "customer_id": "CUST-1236",
+    "name": "Aisha Jones",
+    "email": "aisha.jones236@example.com",
+    "vip": false,
+    "lifetime_value": 746.75
+  },
+  {
+    "customer_id": "CUST-1237",
+    "name": "Emma Lee",
+    "email": "emma.lee237@example.com",
+    "vip": false,
+    "lifetime_value": 4032.71
+  },
+  {
+    "customer_id": "CUST-1238",
+    "name": "Yuki Chen",
+    "email": "yuki.chen238@example.com",
+    "vip": false,
+    "lifetime_value": 118.9
+  },
+  {
+    "customer_id": "CUST-1239",
+    "name": "Aisha Jones",
+    "email": "aisha.jones239@example.com",
+    "vip": false,
+    "lifetime_value": 3757.61
+  },
+  {
+    "customer_id": "CUST-1240",
+    "name": "Mohammed Lee",
+    "email": "mohammed.lee240@example.com",
+    "vip": false,
+    "lifetime_value": 4704.44
+  },
+  {
+    "customer_id": "CUST-1241",
+    "name": "Aisha Nguyen",
+    "email": "aisha.nguyen241@example.com",
+    "vip": false,
+    "lifetime_value": 3116.76
+  },
+  {
+    "customer_id": "CUST-1242",
+    "name": "Liam Nguyen",
+    "email": "liam.nguyen242@example.com",
+    "vip": false,
+    "lifetime_value": 3195.25
+  },
+  {
+    "customer_id": "CUST-1243",
+    "name": "David Silva",
+    "email": "david.silva243@example.com",
+    "vip": false,
+    "lifetime_value": 627.55
+  },
+  {
+    "customer_id": "CUST-1244",
+    "name": "Maria Garcia",
+    "email": "maria.garcia244@example.com",
+    "vip": false,
+    "lifetime_value": 2488.49
+  },
+  {
+    "customer_id": "CUST-1245",
+    "name": "Aisha Nguyen",
+    "email": "aisha.nguyen245@example.com",
+    "vip": false,
+    "lifetime_value": 721.54
+  },
+  {
+    "customer_id": "CUST-1246",
+    "name": "David Tanaka",
+    "email": "david.tanaka246@example.com",
+    "vip": false,
+    "lifetime_value": 3728.54
+  },
+  {
+    "customer_id": "CUST-1247",
+    "name": "Ana Johnson",
+    "email": "ana.johnson247@example.com",
+    "vip": false,
+    "lifetime_value": 3291.86
+  },
+  {
+    "customer_id": "CUST-1248",
+    "name": "Mei Lopez",
+    "email": "mei.lopez248@example.com",
+    "vip": false,
+    "lifetime_value": 1434.71
+  },
+  {
+    "customer_id": "CUST-1249",
+    "name": "Yuki Rossi",
+    "email": "yuki.rossi249@example.com",
+    "vip": false,
+    "lifetime_value": 4755.25
+  },
+  {
+    "customer_id": "CUST-1250",
+    "name": "Yuki Patel",
+    "email": "yuki.patel250@example.com",
+    "vip": false,
+    "lifetime_value": 1868.31
+  },
+  {
+    "customer_id": "CUST-1251",
+    "name": "Yuki Garcia",
+    "email": "yuki.garcia251@example.com",
+    "vip": false,
+    "lifetime_value": 989.55
+  },
+  {
+    "customer_id": "CUST-1252",
+    "name": "Aisha Jones",
+    "email": "aisha.jones252@example.com",
+    "vip": false,
+    "lifetime_value": 1099.92
+  },
+  {
+    "customer_id": "CUST-1253",
+    "name": "James Garcia",
+    "email": "james.garcia253@example.com",
+    "vip": false,
+    "lifetime_value": 1255.67
+  },
+  {
+    "customer_id": "CUST-1254",
+    "name": "John Rossi",
+    "email": "john.rossi254@example.com",
+    "vip": true,
+    "lifetime_value": 3837.53
+  },
+  {
+    "customer_id": "CUST-1255",
+    "name": "Carlos Rossi",
+    "email": "carlos.rossi255@example.com",
+    "vip": false,
+    "lifetime_value": 1203.34
+  },
+  {
+    "customer_id": "CUST-1256",
+    "name": "John Smith",
+    "email": "john.smith256@example.com",
+    "vip": false,
+    "lifetime_value": 4920.94
+  },
+  {
+    "customer_id": "CUST-1257",
+    "name": "John Brown",
+    "email": "john.brown257@example.com",
+    "vip": false,
+    "lifetime_value": 594.14
+  },
+  {
+    "customer_id": "CUST-1258",
+    "name": "James Johnson",
+    "email": "james.johnson258@example.com",
+    "vip": true,
+    "lifetime_value": 3960.42
+  },
+  {
+    "customer_id": "CUST-1259",
+    "name": "Emma Muller",
+    "email": "emma.muller259@example.com",
+    "vip": true,
+    "lifetime_value": 1363.57
+  },
+  {
+    "customer_id": "CUST-1260",
+    "name": "John Lopez",
+    "email": "john.lopez260@example.com",
+    "vip": false,
+    "lifetime_value": 3741.04
+  },
+  {
+    "customer_id": "CUST-1261",
+    "name": "Mei Jones",
+    "email": "mei.jones261@example.com",
+    "vip": false,
+    "lifetime_value": 2590.53
+  },
+  {
+    "customer_id": "CUST-1262",
+    "name": "Aisha Jones",
+    "email": "aisha.jones262@example.com",
+    "vip": false,
+    "lifetime_value": 4729.81
+  },
+  {
+    "customer_id": "CUST-1263",
+    "name": "Maria Silva",
+    "email": "maria.silva263@example.com",
+    "vip": false,
+    "lifetime_value": 4821.93
+  },
+  {
+    "customer_id": "CUST-1264",
+    "name": "Maria Wang",
+    "email": "maria.wang264@example.com",
+    "vip": false,
+    "lifetime_value": 2160.05
+  },
+  {
+    "customer_id": "CUST-1265",
+    "name": "Aisha Wang",
+    "email": "aisha.wang265@example.com",
+    "vip": false,
+    "lifetime_value": 2245.63
+  },
+  {
+    "customer_id": "CUST-1266",
+    "name": "Wei Muller",
+    "email": "wei.muller266@example.com",
+    "vip": false,
+    "lifetime_value": 375.13
+  },
+  {
+    "customer_id": "CUST-1267",
+    "name": "Mohammed Muller",
+    "email": "mohammed.muller267@example.com",
+    "vip": false,
+    "lifetime_value": 3007.09
+  },
+  {
+    "customer_id": "CUST-1268",
+    "name": "Sofia Jones",
+    "email": "sofia.jones268@example.com",
+    "vip": false,
+    "lifetime_value": 2179.49
+  },
+  {
+    "customer_id": "CUST-1269",
+    "name": "Aisha Rossi",
+    "email": "aisha.rossi269@example.com",
+    "vip": false,
+    "lifetime_value": 4446.05
+  },
+  {
+    "customer_id": "CUST-1270",
+    "name": "Ana Muller",
+    "email": "ana.muller270@example.com",
+    "vip": false,
+    "lifetime_value": 2023.71
+  },
+  {
+    "customer_id": "CUST-1271",
+    "name": "Aisha Muller",
+    "email": "aisha.muller271@example.com",
+    "vip": false,
+    "lifetime_value": 3342.28
+  },
+  {
+    "customer_id": "CUST-1272",
+    "name": "Yuki Johnson",
+    "email": "yuki.johnson272@example.com",
+    "vip": false,
+    "lifetime_value": 2397.63
+  },
+  {
+    "customer_id": "CUST-1273",
+    "name": "Wei Chen",
+    "email": "wei.chen273@example.com",
+    "vip": false,
+    "lifetime_value": 527.99
+  },
+  {
+    "customer_id": "CUST-1274",
+    "name": "Yuki Johnson",
+    "email": "yuki.johnson274@example.com",
+    "vip": false,
+    "lifetime_value": 2953.0
+  },
+  {
+    "customer_id": "CUST-1275",
+    "name": "Liam Patel",
+    "email": "liam.patel275@example.com",
+    "vip": false,
+    "lifetime_value": 4374.36
+  },
+  {
+    "customer_id": "CUST-1276",
+    "name": "Ana Garcia",
+    "email": "ana.garcia276@example.com",
+    "vip": false,
+    "lifetime_value": 3022.03
+  },
+  {
+    "customer_id": "CUST-1277",
+    "name": "Yuki Patel",
+    "email": "yuki.patel277@example.com",
+    "vip": false,
+    "lifetime_value": 1103.06
+  },
+  {
+    "customer_id": "CUST-1278",
+    "name": "Mei Nguyen",
+    "email": "mei.nguyen278@example.com",
+    "vip": false,
+    "lifetime_value": 1783.06
+  },
+  {
+    "customer_id": "CUST-1279",
+    "name": "Yuki Patel",
+    "email": "yuki.patel279@example.com",
+    "vip": false,
+    "lifetime_value": 2891.8
+  },
+  {
+    "customer_id": "CUST-1280",
+    "name": "Ana Smith",
+    "email": "ana.smith280@example.com",
+    "vip": false,
+    "lifetime_value": 3306.26
+  },
+  {
+    "customer_id": "CUST-1281",
+    "name": "Mohammed Smith",
+    "email": "mohammed.smith281@example.com",
+    "vip": false,
+    "lifetime_value": 3528.36
+  },
+  {
+    "customer_id": "CUST-1282",
+    "name": "Sofia Muller",
+    "email": "sofia.muller282@example.com",
+    "vip": false,
+    "lifetime_value": 947.96
+  },
+  {
+    "customer_id": "CUST-1283",
+    "name": "John Lee",
+    "email": "john.lee283@example.com",
+    "vip": true,
+    "lifetime_value": 3717.8
+  },
+  {
+    "customer_id": "CUST-1284",
+    "name": "James Chen",
+    "email": "james.chen284@example.com",
+    "vip": false,
+    "lifetime_value": 1114.91
+  },
+  {
+    "customer_id": "CUST-1285",
+    "name": "Ana Jones",
+    "email": "ana.jones285@example.com",
+    "vip": false,
+    "lifetime_value": 1881.76
+  },
+  {
+    "customer_id": "CUST-1286",
+    "name": "Liam Chen",
+    "email": "liam.chen286@example.com",
+    "vip": false,
+    "lifetime_value": 820.12
+  },
+  {
+    "customer_id": "CUST-1287",
+    "name": "Maria Chen",
+    "email": "maria.chen287@example.com",
+    "vip": false,
+    "lifetime_value": 3326.6
+  },
+  {
+    "customer_id": "CUST-1288",
+    "name": "Mei Jones",
+    "email": "mei.jones288@example.com",
+    "vip": false,
+    "lifetime_value": 1117.07
+  },
+  {
+    "customer_id": "CUST-1289",
+    "name": "Aisha Tanaka",
+    "email": "aisha.tanaka289@example.com",
+    "vip": false,
+    "lifetime_value": 1452.07
+  },
+  {
+    "customer_id": "CUST-1290",
+    "name": "Mei Silva",
+    "email": "mei.silva290@example.com",
+    "vip": true,
+    "lifetime_value": 2006.55
+  },
+  {
+    "customer_id": "CUST-1291",
+    "name": "Maria Smith",
+    "email": "maria.smith291@example.com",
+    "vip": false,
+    "lifetime_value": 4729.35
+  },
+  {
+    "customer_id": "CUST-1292",
+    "name": "John Brown",
+    "email": "john.brown292@example.com",
+    "vip": false,
+    "lifetime_value": 643.92
+  },
+  {
+    "customer_id": "CUST-1293",
+    "name": "Mei Lopez",
+    "email": "mei.lopez293@example.com",
+    "vip": false,
+    "lifetime_value": 1932.03
+  },
+  {
+    "customer_id": "CUST-1294",
+    "name": "Emma Tanaka",
+    "email": "emma.tanaka294@example.com",
+    "vip": true,
+    "lifetime_value": 4315.73
+  },
+  {
+    "customer_id": "CUST-1295",
+    "name": "Maria Lopez",
+    "email": "maria.lopez295@example.com",
+    "vip": true,
+    "lifetime_value": 4609.75
+  },
+  {
+    "customer_id": "CUST-1296",
+    "name": "Liam Lopez",
+    "email": "liam.lopez296@example.com",
+    "vip": false,
+    "lifetime_value": 3562.02
+  },
+  {
+    "customer_id": "CUST-1297",
+    "name": "Ana Silva",
+    "email": "ana.silva297@example.com",
+    "vip": false,
+    "lifetime_value": 153.24
+  },
+  {
+    "customer_id": "CUST-1298",
+    "name": "Liam Kim",
+    "email": "liam.kim298@example.com",
+    "vip": false,
+    "lifetime_value": 3109.72
+  },
+  {
+    "customer_id": "CUST-1299",
+    "name": "Yuki Chen",
+    "email": "yuki.chen299@example.com",
+    "vip": false,
+    "lifetime_value": 574.02
+  },
+  {
+    "customer_id": "CUST-1300",
+    "name": "Ana Lee",
+    "email": "ana.lee300@example.com",
+    "vip": false,
+    "lifetime_value": 2009.05
+  },
+  {
+    "customer_id": "CUST-1301",
+    "name": "Sofia Muller",
+    "email": "sofia.muller301@example.com",
+    "vip": false,
+    "lifetime_value": 3906.63
+  },
+  {
+    "customer_id": "CUST-1302",
+    "name": "Wei Patel",
+    "email": "wei.patel302@example.com",
+    "vip": false,
+    "lifetime_value": 1009.82
+  },
+  {
+    "customer_id": "CUST-1303",
+    "name": "Yuki Tanaka",
+    "email": "yuki.tanaka303@example.com",
+    "vip": false,
+    "lifetime_value": 4103.8
+  },
+  {
+    "customer_id": "CUST-1304",
+    "name": "John Nguyen",
+    "email": "john.nguyen304@example.com",
+    "vip": false,
+    "lifetime_value": 1317.04
+  },
+  {
+    "customer_id": "CUST-1305",
+    "name": "Priya Johnson",
+    "email": "priya.johnson305@example.com",
+    "vip": false,
+    "lifetime_value": 3294.77
+  },
+  {
+    "customer_id": "CUST-1306",
+    "name": "Priya Wang",
+    "email": "priya.wang306@example.com",
+    "vip": false,
+    "lifetime_value": 2840.49
+  },
+  {
+    "customer_id": "CUST-1307",
+    "name": "David Muller",
+    "email": "david.muller307@example.com",
+    "vip": false,
+    "lifetime_value": 3154.73
+  },
+  {
+    "customer_id": "CUST-1308",
+    "name": "John Jones",
+    "email": "john.jones308@example.com",
+    "vip": true,
+    "lifetime_value": 2238.93
+  },
+  {
+    "customer_id": "CUST-1309",
+    "name": "Sofia Brown",
+    "email": "sofia.brown309@example.com",
+    "vip": false,
+    "lifetime_value": 1792.11
+  },
+  {
+    "customer_id": "CUST-1310",
+    "name": "Wei Silva",
+    "email": "wei.silva310@example.com",
+    "vip": false,
+    "lifetime_value": 236.16
+  },
+  {
+    "customer_id": "CUST-1311",
+    "name": "Yuki Silva",
+    "email": "yuki.silva311@example.com",
+    "vip": true,
+    "lifetime_value": 4328.04
+  },
+  {
+    "customer_id": "CUST-1312",
+    "name": "Wei Lee",
+    "email": "wei.lee312@example.com",
+    "vip": false,
+    "lifetime_value": 2793.87
+  },
+  {
+    "customer_id": "CUST-1313",
+    "name": "Maria Jones",
+    "email": "maria.jones313@example.com",
+    "vip": false,
+    "lifetime_value": 2879.7
+  },
+  {
+    "customer_id": "CUST-1314",
+    "name": "Carlos Muller",
+    "email": "carlos.muller314@example.com",
+    "vip": false,
+    "lifetime_value": 2531.77
+  },
+  {
+    "customer_id": "CUST-1315",
+    "name": "Maria Jones",
+    "email": "maria.jones315@example.com",
+    "vip": false,
+    "lifetime_value": 4500.68
+  },
+  {
+    "customer_id": "CUST-1316",
+    "name": "Liam Chen",
+    "email": "liam.chen316@example.com",
+    "vip": false,
+    "lifetime_value": 904.17
+  },
+  {
+    "customer_id": "CUST-1317",
+    "name": "Emma Jones",
+    "email": "emma.jones317@example.com",
+    "vip": false,
+    "lifetime_value": 2644.14
+  },
+  {
+    "customer_id": "CUST-1318",
+    "name": "Priya Tanaka",
+    "email": "priya.tanaka318@example.com",
+    "vip": false,
+    "lifetime_value": 1450.32
+  },
+  {
+    "customer_id": "CUST-1319",
+    "name": "Ana Muller",
+    "email": "ana.muller319@example.com",
+    "vip": false,
+    "lifetime_value": 309.21
+  },
+  {
+    "customer_id": "CUST-1320",
+    "name": "Liam Chen",
+    "email": "liam.chen320@example.com",
+    "vip": false,
+    "lifetime_value": 2811.92
+  },
+  {
+    "customer_id": "CUST-1321",
+    "name": "Noah Silva",
+    "email": "noah.silva321@example.com",
+    "vip": false,
+    "lifetime_value": 4265.25
+  },
+  {
+    "customer_id": "CUST-1322",
+    "name": "John Muller",
+    "email": "john.muller322@example.com",
+    "vip": false,
+    "lifetime_value": 3334.88
+  },
+  {
+    "customer_id": "CUST-1323",
+    "name": "Yuki Silva",
+    "email": "yuki.silva323@example.com",
+    "vip": false,
+    "lifetime_value": 3507.48
+  },
+  {
+    "customer_id": "CUST-1324",
+    "name": "Noah Johnson",
+    "email": "noah.johnson324@example.com",
+    "vip": false,
+    "lifetime_value": 4693.11
+  },
+  {
+    "customer_id": "CUST-1325",
+    "name": "Sofia Lee",
+    "email": "sofia.lee325@example.com",
+    "vip": false,
+    "lifetime_value": 1675.96
+  },
+  {
+    "customer_id": "CUST-1326",
+    "name": "John Chen",
+    "email": "john.chen326@example.com",
+    "vip": false,
+    "lifetime_value": 2145.86
+  },
+  {
+    "customer_id": "CUST-1327",
+    "name": "Yuki Smith",
+    "email": "yuki.smith327@example.com",
+    "vip": false,
+    "lifetime_value": 942.3
+  },
+  {
+    "customer_id": "CUST-1328",
+    "name": "Carlos Muller",
+    "email": "carlos.muller328@example.com",
+    "vip": false,
+    "lifetime_value": 2457.04
+  },
+  {
+    "customer_id": "CUST-1329",
+    "name": "Emma Johnson",
+    "email": "emma.johnson329@example.com",
+    "vip": false,
+    "lifetime_value": 1514.17
+  },
+  {
+    "customer_id": "CUST-1330",
+    "name": "Aisha Garcia",
+    "email": "aisha.garcia330@example.com",
+    "vip": false,
+    "lifetime_value": 4388.14
+  },
+  {
+    "customer_id": "CUST-1331",
+    "name": "John Lee",
+    "email": "john.lee331@example.com",
+    "vip": false,
+    "lifetime_value": 945.19
+  },
+  {
+    "customer_id": "CUST-1332",
+    "name": "Priya Jones",
+    "email": "priya.jones332@example.com",
+    "vip": true,
+    "lifetime_value": 1853.28
+  },
+  {
+    "customer_id": "CUST-1333",
+    "name": "Emma Jones",
+    "email": "emma.jones333@example.com",
+    "vip": false,
+    "lifetime_value": 3774.34
+  },
+  {
+    "customer_id": "CUST-1334",
+    "name": "David Nguyen",
+    "email": "david.nguyen334@example.com",
+    "vip": false,
+    "lifetime_value": 1581.87
+  },
+  {
+    "customer_id": "CUST-1335",
+    "name": "Mei Rossi",
+    "email": "mei.rossi335@example.com",
+    "vip": false,
+    "lifetime_value": 4738.29
+  },
+  {
+    "customer_id": "CUST-1336",
+    "name": "David Jones",
+    "email": "david.jones336@example.com",
+    "vip": false,
+    "lifetime_value": 3901.71
+  },
+  {
+    "customer_id": "CUST-1337",
+    "name": "Ana Kim",
+    "email": "ana.kim337@example.com",
+    "vip": false,
+    "lifetime_value": 4016.23
+  },
+  {
+    "customer_id": "CUST-1338",
+    "name": "John Brown",
+    "email": "john.brown338@example.com",
+    "vip": true,
+    "lifetime_value": 2428.92
+  },
+  {
+    "customer_id": "CUST-1339",
+    "name": "Yuki Patel",
+    "email": "yuki.patel339@example.com",
+    "vip": false,
+    "lifetime_value": 2603.75
+  },
+  {
+    "customer_id": "CUST-1340",
+    "name": "Aisha Silva",
+    "email": "aisha.silva340@example.com",
+    "vip": false,
+    "lifetime_value": 843.55
+  },
+  {
+    "customer_id": "CUST-1341",
+    "name": "David Johnson",
+    "email": "david.johnson341@example.com",
+    "vip": false,
+    "lifetime_value": 503.98
+  },
+  {
+    "customer_id": "CUST-1342",
+    "name": "Emma Jones",
+    "email": "emma.jones342@example.com",
+    "vip": false,
+    "lifetime_value": 4655.84
+  },
+  {
+    "customer_id": "CUST-1343",
+    "name": "Ana Garcia",
+    "email": "ana.garcia343@example.com",
+    "vip": false,
+    "lifetime_value": 1901.11
+  },
+  {
+    "customer_id": "CUST-1344",
+    "name": "Noah Chen",
+    "email": "noah.chen344@example.com",
+    "vip": false,
+    "lifetime_value": 189.53
+  },
+  {
+    "customer_id": "CUST-1345",
+    "name": "Aisha Muller",
+    "email": "aisha.muller345@example.com",
+    "vip": false,
+    "lifetime_value": 731.12
+  },
+  {
+    "customer_id": "CUST-1346",
+    "name": "Sofia Wang",
+    "email": "sofia.wang346@example.com",
+    "vip": false,
+    "lifetime_value": 737.02
+  },
+  {
+    "customer_id": "CUST-1347",
+    "name": "Mei Jones",
+    "email": "mei.jones347@example.com",
+    "vip": false,
+    "lifetime_value": 4533.99
+  },
+  {
+    "customer_id": "CUST-1348",
+    "name": "James Brown",
+    "email": "james.brown348@example.com",
+    "vip": false,
+    "lifetime_value": 790.12
+  },
+  {
+    "customer_id": "CUST-1349",
+    "name": "Ana Patel",
+    "email": "ana.patel349@example.com",
+    "vip": false,
+    "lifetime_value": 1226.32
+  },
+  {
+    "customer_id": "CUST-1350",
+    "name": "Aisha Garcia",
+    "email": "aisha.garcia350@example.com",
+    "vip": false,
+    "lifetime_value": 3212.81
+  },
+  {
+    "customer_id": "CUST-1351",
+    "name": "David Chen",
+    "email": "david.chen351@example.com",
+    "vip": false,
+    "lifetime_value": 4530.48
+  },
+  {
+    "customer_id": "CUST-1352",
+    "name": "James Nguyen",
+    "email": "james.nguyen352@example.com",
+    "vip": false,
+    "lifetime_value": 1491.8
+  },
+  {
+    "customer_id": "CUST-1353",
+    "name": "James Tanaka",
+    "email": "james.tanaka353@example.com",
+    "vip": false,
+    "lifetime_value": 2112.01
+  },
+  {
+    "customer_id": "CUST-1354",
+    "name": "Wei Tanaka",
+    "email": "wei.tanaka354@example.com",
+    "vip": true,
+    "lifetime_value": 2653.99
+  },
+  {
+    "customer_id": "CUST-1355",
+    "name": "James Lee",
+    "email": "james.lee355@example.com",
+    "vip": false,
+    "lifetime_value": 265.5
+  },
+  {
+    "customer_id": "CUST-1356",
+    "name": "Noah Tanaka",
+    "email": "noah.tanaka356@example.com",
+    "vip": false,
+    "lifetime_value": 130.4
+  },
+  {
+    "customer_id": "CUST-1357",
+    "name": "Wei Tanaka",
+    "email": "wei.tanaka357@example.com",
+    "vip": false,
+    "lifetime_value": 3302.67
+  },
+  {
+    "customer_id": "CUST-1358",
+    "name": "Aisha Muller",
+    "email": "aisha.muller358@example.com",
+    "vip": false,
+    "lifetime_value": 1793.88
+  },
+  {
+    "customer_id": "CUST-1359",
+    "name": "Liam Kim",
+    "email": "liam.kim359@example.com",
+    "vip": false,
+    "lifetime_value": 3439.18
+  },
+  {
+    "customer_id": "CUST-1360",
+    "name": "Mei Kim",
+    "email": "mei.kim360@example.com",
+    "vip": false,
+    "lifetime_value": 362.35
+  },
+  {
+    "customer_id": "CUST-1361",
+    "name": "David Garcia",
+    "email": "david.garcia361@example.com",
+    "vip": false,
+    "lifetime_value": 266.84
+  },
+  {
+    "customer_id": "CUST-1362",
+    "name": "Carlos Garcia",
+    "email": "carlos.garcia362@example.com",
+    "vip": false,
+    "lifetime_value": 1584.88
+  },
+  {
+    "customer_id": "CUST-1363",
+    "name": "Noah Wang",
+    "email": "noah.wang363@example.com",
+    "vip": false,
+    "lifetime_value": 3778.79
+  },
+  {
+    "customer_id": "CUST-1364",
+    "name": "Carlos Silva",
+    "email": "carlos.silva364@example.com",
+    "vip": false,
+    "lifetime_value": 3915.17
+  },
+  {
+    "customer_id": "CUST-1365",
+    "name": "Liam Brown",
+    "email": "liam.brown365@example.com",
+    "vip": false,
+    "lifetime_value": 1871.69
+  },
+  {
+    "customer_id": "CUST-1366",
+    "name": "Noah Jones",
+    "email": "noah.jones366@example.com",
+    "vip": false,
+    "lifetime_value": 1963.89
+  },
+  {
+    "customer_id": "CUST-1367",
+    "name": "Priya Wang",
+    "email": "priya.wang367@example.com",
+    "vip": false,
+    "lifetime_value": 1868.37
+  },
+  {
+    "customer_id": "CUST-1368",
+    "name": "Mohammed Chen",
+    "email": "mohammed.chen368@example.com",
+    "vip": false,
+    "lifetime_value": 440.69
+  },
+  {
+    "customer_id": "CUST-1369",
+    "name": "Priya Silva",
+    "email": "priya.silva369@example.com",
+    "vip": false,
+    "lifetime_value": 446.34
+  },
+  {
+    "customer_id": "CUST-1370",
+    "name": "Sofia Silva",
+    "email": "sofia.silva370@example.com",
+    "vip": false,
+    "lifetime_value": 3602.43
+  },
+  {
+    "customer_id": "CUST-1371",
+    "name": "Priya Jones",
+    "email": "priya.jones371@example.com",
+    "vip": false,
+    "lifetime_value": 259.66
+  },
+  {
+    "customer_id": "CUST-1372",
+    "name": "Yuki Lopez",
+    "email": "yuki.lopez372@example.com",
+    "vip": false,
+    "lifetime_value": 4901.14
+  },
+  {
+    "customer_id": "CUST-1373",
+    "name": "Maria Chen",
+    "email": "maria.chen373@example.com",
+    "vip": false,
+    "lifetime_value": 2060.74
+  },
+  {
+    "customer_id": "CUST-1374",
+    "name": "Priya Smith",
+    "email": "priya.smith374@example.com",
+    "vip": false,
+    "lifetime_value": 3057.49
+  },
+  {
+    "customer_id": "CUST-1375",
+    "name": "David Garcia",
+    "email": "david.garcia375@example.com",
+    "vip": false,
+    "lifetime_value": 1218.18
+  },
+  {
+    "customer_id": "CUST-1376",
+    "name": "Yuki Tanaka",
+    "email": "yuki.tanaka376@example.com",
+    "vip": false,
+    "lifetime_value": 2857.86
+  },
+  {
+    "customer_id": "CUST-1377",
+    "name": "John Jones",
+    "email": "john.jones377@example.com",
+    "vip": false,
+    "lifetime_value": 1891.47
+  },
+  {
+    "customer_id": "CUST-1378",
+    "name": "Wei Johnson",
+    "email": "wei.johnson378@example.com",
+    "vip": false,
+    "lifetime_value": 2020.27
+  },
+  {
+    "customer_id": "CUST-1379",
+    "name": "Mohammed Nguyen",
+    "email": "mohammed.nguyen379@example.com",
+    "vip": false,
+    "lifetime_value": 178.27
+  },
+  {
+    "customer_id": "CUST-1380",
+    "name": "Priya Wang",
+    "email": "priya.wang380@example.com",
+    "vip": false,
+    "lifetime_value": 4572.04
+  },
+  {
+    "customer_id": "CUST-1381",
+    "name": "Aisha Brown",
+    "email": "aisha.brown381@example.com",
+    "vip": false,
+    "lifetime_value": 3534.99
+  },
+  {
+    "customer_id": "CUST-1382",
+    "name": "Carlos Silva",
+    "email": "carlos.silva382@example.com",
+    "vip": false,
+    "lifetime_value": 4993.21
+  },
+  {
+    "customer_id": "CUST-1383",
+    "name": "Carlos Patel",
+    "email": "carlos.patel383@example.com",
+    "vip": false,
+    "lifetime_value": 416.56
+  },
+  {
+    "customer_id": "CUST-1384",
+    "name": "Priya Jones",
+    "email": "priya.jones384@example.com",
+    "vip": false,
+    "lifetime_value": 4062.04
+  },
+  {
+    "customer_id": "CUST-1385",
+    "name": "Liam Tanaka",
+    "email": "liam.tanaka385@example.com",
+    "vip": false,
+    "lifetime_value": 2772.49
+  },
+  {
+    "customer_id": "CUST-1386",
+    "name": "Sofia Silva",
+    "email": "sofia.silva386@example.com",
+    "vip": false,
+    "lifetime_value": 3573.46
+  },
+  {
+    "customer_id": "CUST-1387",
+    "name": "Priya Tanaka",
+    "email": "priya.tanaka387@example.com",
+    "vip": false,
+    "lifetime_value": 650.74
+  },
+  {
+    "customer_id": "CUST-1388",
+    "name": "Carlos Johnson",
+    "email": "carlos.johnson388@example.com",
+    "vip": false,
+    "lifetime_value": 2495.41
+  },
+  {
+    "customer_id": "CUST-1389",
+    "name": "Yuki Tanaka",
+    "email": "yuki.tanaka389@example.com",
+    "vip": false,
+    "lifetime_value": 4915.91
+  },
+  {
+    "customer_id": "CUST-1390",
+    "name": "John Chen",
+    "email": "john.chen390@example.com",
+    "vip": true,
+    "lifetime_value": 2020.89
+  },
+  {
+    "customer_id": "CUST-1391",
+    "name": "Mei Lopez",
+    "email": "mei.lopez391@example.com",
+    "vip": false,
+    "lifetime_value": 4125.53
+  },
+  {
+    "customer_id": "CUST-1392",
+    "name": "Wei Johnson",
+    "email": "wei.johnson392@example.com",
+    "vip": false,
+    "lifetime_value": 3229.58
+  },
+  {
+    "customer_id": "CUST-1393",
+    "name": "David Jones",
+    "email": "david.jones393@example.com",
+    "vip": false,
+    "lifetime_value": 1755.35
+  },
+  {
+    "customer_id": "CUST-1394",
+    "name": "Priya Johnson",
+    "email": "priya.johnson394@example.com",
+    "vip": false,
+    "lifetime_value": 4558.03
+  },
+  {
+    "customer_id": "CUST-1395",
+    "name": "Maria Patel",
+    "email": "maria.patel395@example.com",
+    "vip": false,
+    "lifetime_value": 1555.42
+  },
+  {
+    "customer_id": "CUST-1396",
+    "name": "Priya Muller",
+    "email": "priya.muller396@example.com",
+    "vip": false,
+    "lifetime_value": 1166.08
+  },
+  {
+    "customer_id": "CUST-1397",
+    "name": "Sofia Chen",
+    "email": "sofia.chen397@example.com",
+    "vip": false,
+    "lifetime_value": 3193.53
+  },
+  {
+    "customer_id": "CUST-1398",
+    "name": "Mohammed Johnson",
+    "email": "mohammed.johnson398@example.com",
+    "vip": false,
+    "lifetime_value": 3091.42
+  },
+  {
+    "customer_id": "CUST-1399",
+    "name": "Wei Kim",
+    "email": "wei.kim399@example.com",
+    "vip": false,
+    "lifetime_value": 2924.2
+  },
+  {
+    "customer_id": "CUST-1400",
+    "name": "Priya Muller",
+    "email": "priya.muller400@example.com",
+    "vip": false,
+    "lifetime_value": 2839.91
+  },
+  {
+    "customer_id": "CUST-1401",
+    "name": "James Chen",
+    "email": "james.chen401@example.com",
+    "vip": true,
+    "lifetime_value": 3225.2
+  },
+  {
+    "customer_id": "CUST-1402",
+    "name": "Mohammed Rossi",
+    "email": "mohammed.rossi402@example.com",
+    "vip": false,
+    "lifetime_value": 2112.1
+  },
+  {
+    "customer_id": "CUST-1403",
+    "name": "James Wang",
+    "email": "james.wang403@example.com",
+    "vip": false,
+    "lifetime_value": 2750.61
+  },
+  {
+    "customer_id": "CUST-1404",
+    "name": "Sofia Wang",
+    "email": "sofia.wang404@example.com",
+    "vip": false,
+    "lifetime_value": 4046.38
+  },
+  {
+    "customer_id": "CUST-1405",
+    "name": "Noah Silva",
+    "email": "noah.silva405@example.com",
+    "vip": false,
+    "lifetime_value": 3458.64
+  },
+  {
+    "customer_id": "CUST-1406",
+    "name": "Priya Jones",
+    "email": "priya.jones406@example.com",
+    "vip": false,
+    "lifetime_value": 2348.99
+  },
+  {
+    "customer_id": "CUST-1407",
+    "name": "Liam Johnson",
+    "email": "liam.johnson407@example.com",
+    "vip": false,
+    "lifetime_value": 3605.9
+  },
+  {
+    "customer_id": "CUST-1408",
+    "name": "Yuki Lee",
+    "email": "yuki.lee408@example.com",
+    "vip": false,
+    "lifetime_value": 1884.17
+  },
+  {
+    "customer_id": "CUST-1409",
+    "name": "Aisha Muller",
+    "email": "aisha.muller409@example.com",
+    "vip": false,
+    "lifetime_value": 656.48
+  },
+  {
+    "customer_id": "CUST-1410",
+    "name": "David Nguyen",
+    "email": "david.nguyen410@example.com",
+    "vip": false,
+    "lifetime_value": 300.5
+  },
+  {
+    "customer_id": "CUST-1411",
+    "name": "Noah Lopez",
+    "email": "noah.lopez411@example.com",
+    "vip": false,
+    "lifetime_value": 4333.27
+  },
+  {
+    "customer_id": "CUST-1412",
+    "name": "Priya Muller",
+    "email": "priya.muller412@example.com",
+    "vip": false,
+    "lifetime_value": 3619.59
+  },
+  {
+    "customer_id": "CUST-1413",
+    "name": "Carlos Kim",
+    "email": "carlos.kim413@example.com",
+    "vip": false,
+    "lifetime_value": 2597.89
+  },
+  {
+    "customer_id": "CUST-1414",
+    "name": "Mei Silva",
+    "email": "mei.silva414@example.com",
+    "vip": false,
+    "lifetime_value": 495.74
+  },
+  {
+    "customer_id": "CUST-1415",
+    "name": "Noah Jones",
+    "email": "noah.jones415@example.com",
+    "vip": false,
+    "lifetime_value": 1114.96
+  },
+  {
+    "customer_id": "CUST-1416",
+    "name": "Yuki Garcia",
+    "email": "yuki.garcia416@example.com",
+    "vip": true,
+    "lifetime_value": 2499.73
+  },
+  {
+    "customer_id": "CUST-1417",
+    "name": "Mei Silva",
+    "email": "mei.silva417@example.com",
+    "vip": false,
+    "lifetime_value": 4243.5
+  },
+  {
+    "customer_id": "CUST-1418",
+    "name": "Ana Johnson",
+    "email": "ana.johnson418@example.com",
+    "vip": false,
+    "lifetime_value": 3651.16
+  },
+  {
+    "customer_id": "CUST-1419",
+    "name": "Noah Tanaka",
+    "email": "noah.tanaka419@example.com",
+    "vip": true,
+    "lifetime_value": 303.23
+  },
+  {
+    "customer_id": "CUST-1420",
+    "name": "Carlos Tanaka",
+    "email": "carlos.tanaka420@example.com",
+    "vip": false,
+    "lifetime_value": 413.98
+  },
+  {
+    "customer_id": "CUST-1421",
+    "name": "David Brown",
+    "email": "david.brown421@example.com",
+    "vip": false,
+    "lifetime_value": 3135.05
+  },
+  {
+    "customer_id": "CUST-1422",
+    "name": "Aisha Johnson",
+    "email": "aisha.johnson422@example.com",
+    "vip": false,
+    "lifetime_value": 1999.82
+  },
+  {
+    "customer_id": "CUST-1423",
+    "name": "Liam Tanaka",
+    "email": "liam.tanaka423@example.com",
+    "vip": false,
+    "lifetime_value": 1035.34
+  },
+  {
+    "customer_id": "CUST-1424",
+    "name": "Noah Garcia",
+    "email": "noah.garcia424@example.com",
+    "vip": true,
+    "lifetime_value": 728.33
+  },
+  {
+    "customer_id": "CUST-1425",
+    "name": "Liam Wang",
+    "email": "liam.wang425@example.com",
+    "vip": false,
+    "lifetime_value": 787.26
+  },
+  {
+    "customer_id": "CUST-1426",
+    "name": "John Muller",
+    "email": "john.muller426@example.com",
+    "vip": false,
+    "lifetime_value": 1626.72
+  },
+  {
+    "customer_id": "CUST-1427",
+    "name": "Noah Silva",
+    "email": "noah.silva427@example.com",
+    "vip": false,
+    "lifetime_value": 2561.21
+  },
+  {
+    "customer_id": "CUST-1428",
+    "name": "Mei Silva",
+    "email": "mei.silva428@example.com",
+    "vip": false,
+    "lifetime_value": 132.35
+  },
+  {
+    "customer_id": "CUST-1429",
+    "name": "Liam Patel",
+    "email": "liam.patel429@example.com",
+    "vip": false,
+    "lifetime_value": 2939.33
+  },
+  {
+    "customer_id": "CUST-1430",
+    "name": "James Wang",
+    "email": "james.wang430@example.com",
+    "vip": false,
+    "lifetime_value": 3295.18
+  },
+  {
+    "customer_id": "CUST-1431",
+    "name": "Emma Garcia",
+    "email": "emma.garcia431@example.com",
+    "vip": false,
+    "lifetime_value": 894.03
+  },
+  {
+    "customer_id": "CUST-1432",
+    "name": "Noah Johnson",
+    "email": "noah.johnson432@example.com",
+    "vip": false,
+    "lifetime_value": 1248.87
+  },
+  {
+    "customer_id": "CUST-1433",
+    "name": "Aisha Rossi",
+    "email": "aisha.rossi433@example.com",
+    "vip": true,
+    "lifetime_value": 1602.78
+  },
+  {
+    "customer_id": "CUST-1434",
+    "name": "John Lopez",
+    "email": "john.lopez434@example.com",
+    "vip": false,
+    "lifetime_value": 2081.37
+  },
+  {
+    "customer_id": "CUST-1435",
+    "name": "Mei Garcia",
+    "email": "mei.garcia435@example.com",
+    "vip": false,
+    "lifetime_value": 2617.48
+  },
+  {
+    "customer_id": "CUST-1436",
+    "name": "Liam Wang",
+    "email": "liam.wang436@example.com",
+    "vip": false,
+    "lifetime_value": 1603.08
+  },
+  {
+    "customer_id": "CUST-1437",
+    "name": "Priya Jones",
+    "email": "priya.jones437@example.com",
+    "vip": false,
+    "lifetime_value": 1744.52
+  },
+  {
+    "customer_id": "CUST-1438",
+    "name": "Yuki Brown",
+    "email": "yuki.brown438@example.com",
+    "vip": false,
+    "lifetime_value": 1001.71
+  },
+  {
+    "customer_id": "CUST-1439",
+    "name": "Emma Brown",
+    "email": "emma.brown439@example.com",
+    "vip": false,
+    "lifetime_value": 1163.09
+  },
+  {
+    "customer_id": "CUST-1440",
+    "name": "Sofia Silva",
+    "email": "sofia.silva440@example.com",
+    "vip": false,
+    "lifetime_value": 3466.69
+  },
+  {
+    "customer_id": "CUST-1441",
+    "name": "Mei Muller",
+    "email": "mei.muller441@example.com",
+    "vip": false,
+    "lifetime_value": 2824.41
+  },
+  {
+    "customer_id": "CUST-1442",
+    "name": "Mohammed Silva",
+    "email": "mohammed.silva442@example.com",
+    "vip": false,
+    "lifetime_value": 3399.28
+  },
+  {
+    "customer_id": "CUST-1443",
+    "name": "Noah Lee",
+    "email": "noah.lee443@example.com",
+    "vip": false,
+    "lifetime_value": 4775.31
+  },
+  {
+    "customer_id": "CUST-1444",
+    "name": "John Silva",
+    "email": "john.silva444@example.com",
+    "vip": true,
+    "lifetime_value": 4778.8
+  },
+  {
+    "customer_id": "CUST-1445",
+    "name": "Wei Tanaka",
+    "email": "wei.tanaka445@example.com",
+    "vip": false,
+    "lifetime_value": 3297.06
+  },
+  {
+    "customer_id": "CUST-1446",
+    "name": "Mei Rossi",
+    "email": "mei.rossi446@example.com",
+    "vip": false,
+    "lifetime_value": 2715.96
+  },
+  {
+    "customer_id": "CUST-1447",
+    "name": "Mohammed Johnson",
+    "email": "mohammed.johnson447@example.com",
+    "vip": false,
+    "lifetime_value": 3717.41
+  },
+  {
+    "customer_id": "CUST-1448",
+    "name": "Emma Nguyen",
+    "email": "emma.nguyen448@example.com",
+    "vip": true,
+    "lifetime_value": 4530.66
+  },
+  {
+    "customer_id": "CUST-1449",
+    "name": "Emma Nguyen",
+    "email": "emma.nguyen449@example.com",
+    "vip": true,
+    "lifetime_value": 2095.84
+  },
+  {
+    "customer_id": "CUST-1450",
+    "name": "Mei Patel",
+    "email": "mei.patel450@example.com",
+    "vip": false,
+    "lifetime_value": 730.46
+  },
+  {
+    "customer_id": "CUST-1451",
+    "name": "Priya Lopez",
+    "email": "priya.lopez451@example.com",
+    "vip": false,
+    "lifetime_value": 4409.2
+  },
+  {
+    "customer_id": "CUST-1452",
+    "name": "Mei Wang",
+    "email": "mei.wang452@example.com",
+    "vip": false,
+    "lifetime_value": 3791.76
+  },
+  {
+    "customer_id": "CUST-1453",
+    "name": "Sofia Muller",
+    "email": "sofia.muller453@example.com",
+    "vip": false,
+    "lifetime_value": 342.85
+  },
+  {
+    "customer_id": "CUST-1454",
+    "name": "Wei Nguyen",
+    "email": "wei.nguyen454@example.com",
+    "vip": false,
+    "lifetime_value": 3629.43
+  },
+  {
+    "customer_id": "CUST-1455",
+    "name": "Maria Kim",
+    "email": "maria.kim455@example.com",
+    "vip": false,
+    "lifetime_value": 4196.14
+  },
+  {
+    "customer_id": "CUST-1456",
+    "name": "Maria Lee",
+    "email": "maria.lee456@example.com",
+    "vip": false,
+    "lifetime_value": 972.24
+  },
+  {
+    "customer_id": "CUST-1457",
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia457@example.com",
+    "vip": true,
+    "lifetime_value": 2861.41
+  },
+  {
+    "customer_id": "CUST-1458",
+    "name": "Aisha Muller",
+    "email": "aisha.muller458@example.com",
+    "vip": false,
+    "lifetime_value": 4946.04
+  },
+  {
+    "customer_id": "CUST-1459",
+    "name": "Mei Johnson",
+    "email": "mei.johnson459@example.com",
+    "vip": false,
+    "lifetime_value": 2366.7
+  },
+  {
+    "customer_id": "CUST-1460",
+    "name": "Carlos Patel",
+    "email": "carlos.patel460@example.com",
+    "vip": false,
+    "lifetime_value": 3669.04
+  },
+  {
+    "customer_id": "CUST-1461",
+    "name": "Mohammed Kim",
+    "email": "mohammed.kim461@example.com",
+    "vip": true,
+    "lifetime_value": 1718.71
+  },
+  {
+    "customer_id": "CUST-1462",
+    "name": "Sofia Rossi",
+    "email": "sofia.rossi462@example.com",
+    "vip": false,
+    "lifetime_value": 4287.93
+  },
+  {
+    "customer_id": "CUST-1463",
+    "name": "Noah Lopez",
+    "email": "noah.lopez463@example.com",
+    "vip": false,
+    "lifetime_value": 479.35
+  },
+  {
+    "customer_id": "CUST-1464",
+    "name": "Aisha Kim",
+    "email": "aisha.kim464@example.com",
+    "vip": false,
+    "lifetime_value": 2413.4
+  },
+  {
+    "customer_id": "CUST-1465",
+    "name": "Emma Smith",
+    "email": "emma.smith465@example.com",
+    "vip": false,
+    "lifetime_value": 1215.83
+  },
+  {
+    "customer_id": "CUST-1466",
+    "name": "Mohammed Muller",
+    "email": "mohammed.muller466@example.com",
+    "vip": false,
+    "lifetime_value": 3628.27
+  },
+  {
+    "customer_id": "CUST-1467",
+    "name": "James Brown",
+    "email": "james.brown467@example.com",
+    "vip": false,
+    "lifetime_value": 3479.2
+  },
+  {
+    "customer_id": "CUST-1468",
+    "name": "Maria Patel",
+    "email": "maria.patel468@example.com",
+    "vip": false,
+    "lifetime_value": 840.6
+  },
+  {
+    "customer_id": "CUST-1469",
+    "name": "Sofia Patel",
+    "email": "sofia.patel469@example.com",
+    "vip": false,
+    "lifetime_value": 4706.15
+  },
+  {
+    "customer_id": "CUST-1470",
+    "name": "Yuki Nguyen",
+    "email": "yuki.nguyen470@example.com",
+    "vip": false,
+    "lifetime_value": 711.17
+  },
+  {
+    "customer_id": "CUST-1471",
+    "name": "John Jones",
+    "email": "john.jones471@example.com",
+    "vip": false,
+    "lifetime_value": 3048.41
+  },
+  {
+    "customer_id": "CUST-1472",
+    "name": "Ana Wang",
+    "email": "ana.wang472@example.com",
+    "vip": false,
+    "lifetime_value": 4019.88
+  },
+  {
+    "customer_id": "CUST-1473",
+    "name": "Carlos Nguyen",
+    "email": "carlos.nguyen473@example.com",
+    "vip": false,
+    "lifetime_value": 2999.28
+  },
+  {
+    "customer_id": "CUST-1474",
+    "name": "Wei Jones",
+    "email": "wei.jones474@example.com",
+    "vip": false,
+    "lifetime_value": 1840.84
+  },
+  {
+    "customer_id": "CUST-1475",
+    "name": "Aisha Garcia",
+    "email": "aisha.garcia475@example.com",
+    "vip": false,
+    "lifetime_value": 4519.3
+  },
+  {
+    "customer_id": "CUST-1476",
+    "name": "Carlos Johnson",
+    "email": "carlos.johnson476@example.com",
+    "vip": false,
+    "lifetime_value": 4279.71
+  },
+  {
+    "customer_id": "CUST-1477",
+    "name": "David Patel",
+    "email": "david.patel477@example.com",
+    "vip": false,
+    "lifetime_value": 3598.74
+  },
+  {
+    "customer_id": "CUST-1478",
+    "name": "Mei Chen",
+    "email": "mei.chen478@example.com",
+    "vip": false,
+    "lifetime_value": 2255.14
+  },
+  {
+    "customer_id": "CUST-1479",
+    "name": "Maria Jones",
+    "email": "maria.jones479@example.com",
+    "vip": false,
+    "lifetime_value": 2106.35
+  },
+  {
+    "customer_id": "CUST-1480",
+    "name": "Maria Jones",
+    "email": "maria.jones480@example.com",
+    "vip": false,
+    "lifetime_value": 1575.44
+  },
+  {
+    "customer_id": "CUST-1481",
+    "name": "James Lee",
+    "email": "james.lee481@example.com",
+    "vip": false,
+    "lifetime_value": 64.93
+  },
+  {
+    "customer_id": "CUST-1482",
+    "name": "Carlos Chen",
+    "email": "carlos.chen482@example.com",
+    "vip": true,
+    "lifetime_value": 1755.42
+  },
+  {
+    "customer_id": "CUST-1483",
+    "name": "Wei Garcia",
+    "email": "wei.garcia483@example.com",
+    "vip": false,
+    "lifetime_value": 391.64
+  },
+  {
+    "customer_id": "CUST-1484",
+    "name": "Mei Garcia",
+    "email": "mei.garcia484@example.com",
+    "vip": false,
+    "lifetime_value": 940.91
+  },
+  {
+    "customer_id": "CUST-1485",
+    "name": "John Lopez",
+    "email": "john.lopez485@example.com",
+    "vip": false,
+    "lifetime_value": 4462.1
+  },
+  {
+    "customer_id": "CUST-1486",
+    "name": "David Lee",
+    "email": "david.lee486@example.com",
+    "vip": false,
+    "lifetime_value": 3429.52
+  },
+  {
+    "customer_id": "CUST-1487",
+    "name": "John Tanaka",
+    "email": "john.tanaka487@example.com",
+    "vip": false,
+    "lifetime_value": 4964.59
+  },
+  {
+    "customer_id": "CUST-1488",
+    "name": "Noah Johnson",
+    "email": "noah.johnson488@example.com",
+    "vip": false,
+    "lifetime_value": 1152.32
+  },
+  {
+    "customer_id": "CUST-1489",
+    "name": "James Smith",
+    "email": "james.smith489@example.com",
+    "vip": false,
+    "lifetime_value": 2341.87
+  },
+  {
+    "customer_id": "CUST-1490",
+    "name": "Ana Lee",
+    "email": "ana.lee490@example.com",
+    "vip": false,
+    "lifetime_value": 1275.18
+  },
+  {
+    "customer_id": "CUST-1491",
+    "name": "Yuki Johnson",
+    "email": "yuki.johnson491@example.com",
+    "vip": false,
+    "lifetime_value": 4690.18
+  },
+  {
+    "customer_id": "CUST-1492",
+    "name": "Aisha Garcia",
+    "email": "aisha.garcia492@example.com",
+    "vip": false,
+    "lifetime_value": 2125.24
+  },
+  {
+    "customer_id": "CUST-1493",
+    "name": "James Nguyen",
+    "email": "james.nguyen493@example.com",
+    "vip": false,
+    "lifetime_value": 549.44
+  },
+  {
+    "customer_id": "CUST-1494",
+    "name": "Maria Jones",
+    "email": "maria.jones494@example.com",
+    "vip": false,
+    "lifetime_value": 3531.27
+  },
+  {
+    "customer_id": "CUST-1495",
+    "name": "Maria Nguyen",
+    "email": "maria.nguyen495@example.com",
+    "vip": false,
+    "lifetime_value": 2041.21
+  },
+  {
+    "customer_id": "CUST-1496",
+    "name": "Emma Rossi",
+    "email": "emma.rossi496@example.com",
+    "vip": false,
+    "lifetime_value": 3891.51
+  },
+  {
+    "customer_id": "CUST-1497",
+    "name": "John Silva",
+    "email": "john.silva497@example.com",
+    "vip": false,
+    "lifetime_value": 4586.17
+  },
+  {
+    "customer_id": "CUST-1498",
+    "name": "Liam Muller",
+    "email": "liam.muller498@example.com",
+    "vip": false,
+    "lifetime_value": 4387.48
+  },
+  {
+    "customer_id": "CUST-1499",
+    "name": "Emma Lopez",
+    "email": "emma.lopez499@example.com",
+    "vip": false,
+    "lifetime_value": 351.74
+  },
+  {
+    "customer_id": "CUST-0999",
+    "name": "Aisha Smith",
+    "email": "aisha.smith@example.com",
+    "vip": false,
+    "lifetime_value": 1262.21
+  }
+]
